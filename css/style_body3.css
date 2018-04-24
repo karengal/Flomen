@@ -1,0 +1,24 @@
+@media print {
+      body, html, #wrapper {
+          width: 100%;
+      }
+}
+
+     body {  background-color:  #CEF6CE  ;     }
+     h3 {  background-color: #4B8A08;  }
+     p {  background-color:  #93B874;
+       height:124px;
+     overflow-x:scroll;
+     overflow-y:hidden;
+     white-space: nowrap;}
+
+
+     p::-webkit-scrollbar {
+      width: 4em;
+      color: green;}
+      p::-webkit-scrollbar-thumb {
+  background-color: darkgrey;
+  outline: 1px solid slategrey;
+}
+/* <!-- #//:  #F5F6CE     .html { min-height: 100%;  } --> */
+/*test*/

@@ -1,0 +1,435 @@
+
+.myButton2040_99{transform: rotate(50deg);        float: right;  transform-origin: left top 0;
+	transform-style: preserve-3d;
+/*         transform-style: preserve-3d;
+  	  	-webkit-transform: rotate(-90deg);
+	      -moz-transform: rotate(-90deg);
+    	           */
+color: white    }
+
+.myButton2040 {
+	-moz-box-shadow: 0px 1px 0px 0px #fff6af;
+	-webkit-box-shadow: 0px 1px 0px 0px #fff6af;
+	box-shadow: 0px 1px 0px 0px #fff6af;
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #ffec64), color-stop(1, #ffab23));
+	background:-moz-linear-gradient(top, #ffec64 5%, #ffab23 100%);
+	background:-webkit-linear-gradient(top, #ffec64 5%, #ffab23 100%);
+	background:-o-linear-gradient(top, #ffec64 5%, #ffab23 100%);
+	background:-ms-linear-gradient(top, #ffec64 5%, #ffab23 100%);
+	background:linear-gradient(to bottom, #ffec64 5%, #ffab23 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffec64', endColorstr='#ffab23',GradientType=0);
+	background-color:#ffec63;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:24px;
+	border:1px solid #ffaa22;
+	display:inline-block;
+	cursor:pointer;
+	color:#333333;
+	font-family:Trebuchet MS;
+	font-size:24px;
+	font-weight:bold;
+	padding:34px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ffee66;
+  height:   24;
+}
+.myButton2040:hover {
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #ffab23), color-stop(1, #ffec64));
+	background:-moz-linear-gradient(top, #ffab23 5%, #ffec64 100%);
+	background:-webkit-linear-gradient(top, #ffab23 5%, #ffec64 100%);
+	background:-o-linear-gradient(top, #ffab23 5%, #ffec64 100%);
+	background:-ms-linear-gradient(top, #ffab23 5%, #ffec64 100%);
+	background:linear-gradient(to bottom, #ffab23 5%, #ffec64 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffab23', endColorstr='#ffec64',GradientType=0);
+	background-color:#ffab23;
+}
+.myButton2040:active {
+	position:relative;
+	top:1px;
+}
+
+
+
+.myButton102 {
+	-moz-box-shadow:inset 0px 1px 0px 0px #efdcfb;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #efdcfb;
+	box-shadow:inset 0px 1px 0px 0px #efdcfb;
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #dfbdfa), color-stop(1, #bc80ea));
+	background:-moz-linear-gradient(top, #dfbdfa 5%, #bc80ea 100%);
+	background:-webkit-linear-gradient(top, #dfbdfa 5%, #bc80ea 100%);
+	background:-o-linear-gradient(top, #dfbdfa 5%, #bc80ea 100%);
+	background:-ms-linear-gradient(top, #dfbdfa 5%, #bc80ea 100%);
+	background:linear-gradient(to bottom, #dfbdfa 5%, #bc80ea 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#dfbdfa', endColorstr='#bc80ea',GradientType=0);
+	background-color:#dfbdfa;
+/*	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	border:3px solid #c584f3;  */
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Trebuchet MS;
+	font-size:12px;
+	white-space:normal;
+	font-weight:bold;
+	padding:8px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #9752cc;
+}
+.myButton102:hover {
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #bc80ea), color-stop(1, #dfbdfa));
+	background:-moz-linear-gradient(top, #bc80ea 5%, #dfbdfa 100%);
+	background:-webkit-linear-gradient(top, #bc80ea 5%, #dfbdfa 100%);
+	background:-o-linear-gradient(top, #bc80ea 5%, #dfbdfa 100%);
+	background:-ms-linear-gradient(top, #bc80ea 5%, #dfbdfa 100%);
+	background:linear-gradient(to bottom, #bc80ea 5%, #dfbdfa 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#bc80ea', endColorstr='#dfbdfa',GradientType=0);
+	background-color:#bc80ea;
+}
+.myButton102:active {
+	position:relative;
+	top:1px;
+}
+
+
+
+.myButton108 {
+	box-shadow:inset 0px 1px 0px 0px  gold;
+  	  background-color: #FFC300;
+/*	-moz-border-radius:3px; #f5bf5e;  #ffec63;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	border:3px solid #c584f3;  */
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Trebuchet MS;
+	font-size:12px;
+	white-space:normal;
+	font-weight:bold;
+	padding:8px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px  #f5bf5e;
+}
+.myButton108:hover {
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #bc80ea), color-stop(1, #dfbdfa));
+	background:-moz-linear-gradient(top, #bc80ea 5%, #dfbdfa 100%);
+	background:-webkit-linear-gradient(top, #bc80ea 5%, #dfbdfa 100%);
+	background:-o-linear-gradient(top, #bc80ea 5%, #dfbdfa 100%);
+	background:-ms-linear-gradient(top, #bc80ea 5%, #dfbdfa 100%);
+	background:linear-gradient(to bottom, #bc80ea 5%, #dfbdfa 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#bc80ea', endColorstr='#dfbdfa',GradientType=0);
+	background-color:gold;
+}
+.myButton108:active {
+	position:relative;
+	top:1px;
+}
+
+
+
+  .myButton108_on {
+	box-shadow:inset 0px 1px 0px 0px  gold;
+  	  background-color: #df9004;
+/*	-moz-border-radius:3px; #f5bf5e;  #ffec63;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	border:3px solid #c584f3;  */
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Trebuchet MS;
+	font-size:12px;
+	white-space:normal;
+	font-weight:bold;
+	padding:8px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px  #f5bf5e;
+}
+.myButton108_on:hover {
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #bc80ea), color-stop(1, #dfbdfa));
+	background:-moz-linear-gradient(top, #bc80ea 5%, #dfbdfa 100%);
+	background:-webkit-linear-gradient(top, #bc80ea 5%, #dfbdfa 100%);
+	background:-o-linear-gradient(top, #bc80ea 5%, #dfbdfa 100%);
+	background:-ms-linear-gradient(top, #bc80ea 5%, #dfbdfa 100%);
+	background:linear-gradient(to bottom, #bc80ea 5%, #dfbdfa 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#bc80ea', endColorstr='#dfbdfa',GradientType=0);
+	background-color:gold;
+}
+.myButton108_on:active {
+	position:relative;
+	top:1px;
+}
+
+
+
+.myButton102_on {
+	box-shadow:inset 0px 1px 0px 0px #efdcfb;
+  	  background-color:#ae5ef5;
+/*	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	border:3px solid #c584f3;  */
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Trebuchet MS;
+	font-size:12px;
+	white-space:normal;
+	font-weight:bold;
+	padding:8px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #9752cc;
+}
+.myButton102_on:hover {
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #bc80ea), color-stop(1, #dfbdfa));
+	background:-moz-linear-gradient(top, #bc80ea 5%, #dfbdfa 100%);
+	background:-webkit-linear-gradient(top, #bc80ea 5%, #dfbdfa 100%);
+	background:-o-linear-gradient(top, #bc80ea 5%, #dfbdfa 100%);
+	background:-ms-linear-gradient(top, #bc80ea 5%, #dfbdfa 100%);
+	background:linear-gradient(to bottom, #bc80ea 5%, #dfbdfa 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#bc80ea', endColorstr='#dfbdfa',GradientType=0);
+	background-color:#bc80ea;
+}
+.myButton102_on:active {
+	position:relative;
+	top:1px;
+}
+
+
+
+
+  .myButton3 {
+  -moz-border-radius:28px;
+-webkit-border-radius:28px;
+background-color:#ACA8F5;
+border-radius:29px;
+font-family:Arial;
+  border:1px solid #18ab29;
+display:inline-block;
+font-size:24px;
+  cursor:pointer;
+    padding:11px;
+text-decoration:none;
+text-shadow:0px 1px 0px #2f6627;  }
+.myButton3:hover {
+background-color:#CFCDF1;  }
+.myButton3:active {
+	background-color:#ADD2F6;
+  	position:relative;
+  	top:1px;}
+
+
+
+
+             .myButton {
+           	background-color:#44c767;
+           	-moz-border-radius:28px;
+           	-webkit-border-radius:28px;
+           	border-radius:29px;
+						font-family:Arial;
+  	         	border:1px solid #18ab29;
+           	display:inline-block;
+           	cursor:pointer;
+           	color:#ffffff;
+             	font-size:24px;
+           	padding:11px;
+           	text-decoration:none;
+           	text-shadow:0px 1px 0px #2f6627;  }
+           .myButton:hover {
+           	background-color:#F3DC3F;
+					color:black}
+             .myButton:active {
+           	position:relative;
+           	top:1px;}
+
+
+            .myButton_33 {
+           background-color:#2E64FE;
+           -moz-border-radius:28px;
+           -webkit-border-radius:28px;
+           border-radius:29px;
+					 font-family:Arial;
+					 border:1px solid #2E9AFE;
+           display:inline-block;
+           cursor:crosshair;
+           color:#0404B4;
+            font-size:24px;
+           padding:11px;
+           text-decoration:none;
+           text-shadow:0px 1px 0px #2f6627;  }
+          .myButton_33:hover {
+           background-color:#F3DC3F;  }
+          .myButton_33:active {
+           position:relative;
+           top:1px;}
+
+           .myButton_34 {
+          background-color: #33ff33;
+          -moz-border-radius:29px;
+          -webkit-border-radius:27px;
+          border-radius:29px;
+          border:1px solid #2E9AFE;
+          display:inline-block;
+          cursor:crosshair;
+          color:white;
+          font-family:"Times New Roman";
+          font-size:20px;
+          padding:5px 20px;
+          text-decoration:none;
+          text-shadow:0px 1px 0px #2f6627;  }
+         .myButton_34:hover {
+          background-color:#C29D1F;  }
+         .myButton_34:active {
+          position:relative;
+          top:1px;}
+
+
+          .myButton4020 {
+          -moz-box-shadow: 3px 4px 0px 0px #8a8121;
+	-webkit-box-shadow: 3px 4px 0px 0px #8a8121;
+	box-shadow: 3px 4px 0px 0px #8a8121;
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #e6c909), color-stop(1, #f0b339));
+	background:-moz-linear-gradient(top, #e6c909 5%, #f0b339 100%);
+	background:-webkit-linear-gradient(top, #e6c909 5%, #f0b339 100%);
+	background:-o-linear-gradient(top, #e6c909 5%, #f0b339 100%);
+	background:-ms-linear-gradient(top, #e6c909 5%, #f0b339 100%);
+	background:linear-gradient(to bottom, #e6c909 5%, #f0b339 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#e6c909', endColorstr='#f0b339',GradientType=0);
+	background-color:#e6c909;
+	-moz-border-radius:18px;
+	-webkit-border-radius:18px;
+	border-radius:18px;
+	border:1px solid #cfc619;
+	display:inline-block;
+	cursor:pointer;
+	color:#000000;
+	font-family:Trebuchet MS;
+	font-size:17px;
+	padding:7px 25px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #d19226;
+}
+.myButton4020:hover {
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #f0b339), color-stop(1, #e6c909));
+	background:-moz-linear-gradient(top, #f0b339 5%, #e6c909 100%);
+	background:-webkit-linear-gradient(top, #f0b339 5%, #e6c909 100%);
+	background:-o-linear-gradient(top, #f0b339 5%, #e6c909 100%);
+	background:-ms-linear-gradient(top, #f0b339 5%, #e6c909 100%);
+	background:linear-gradient(to bottom, #f0b339 5%, #e6c909 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f0b339', endColorstr='#e6c909',GradientType=0);
+	background-color:#f0b339;
+}
+.myButton4020:active {
+	position:relative;
+	top:1px;}
+
+
+	  .load_folder_24 {
+background-image: url(../figures_/Files_Folders.png);
+ background-color: #5bd642;
+ -moz-border-radius:29px;
+ -webkit-border-radius:27px;
+ border-radius:29px;
+ border:1px solid #2E9AFE;
+ display:inline-block;
+ width:242px;
+ height:102px;
+ cursor:crosshair;
+ color:black;
+ font-family:"Times New Roman";
+ font-size:27px;
+ white-space: normal;
+ padding:5px;
+ text-decoration:none;
+ text-shadow:0px 1px 0px #2f6627;  }
+.load_folder_24:hover {
+	background-image: url(../figures_/data2.png);
+   background-color:#C29D1F;
+	 color:white;  }
+.load_folder_24:active {
+ position:relative;
+ top:1px;}
+
+
+ .load_file_24 {
+background-image: url(../figures_/papyrus_43.jpg);
+background-color: #5bd642;
+-moz-border-radius:29px;
+-webkit-border-radius:27px;
+border-radius:29px;
+border:1px solid #2E9AFE;
+display:inline-block;
+width:242px;
+height:102px;
+cursor:crosshair;
+color:black;
+font-family:"Times New Roman";
+font-size:29px;
+white-space: normal;
+padding:5px;
+text-decoration:none;
+text-shadow:0px 1px 0px #2f6627;  }
+.load_file_24:hover {
+background-image: url(../figures_/test_color.png);
+background-color:#C29D1F;
+color:white;  }
+.load_file_24:active {
+position:relative;
+top:1px;}
+
+
+.info {
+background-image: url(../figures_/info_on.jpeg);
+background-color: #5bd642;
+-moz-border-radius:29px;
+-webkit-border-radius:27px;
+border-radius:29px;
+border:1px solid #2E9AFE;
+display:inline-block;
+width:24px;
+height:20px;
+cursor:crosshair;
+color:black;
+font-family:"Times New Roman";
+font-size:11px;
+white-space: normal;
+padding:3px;
+text-decoration:none;
+text-shadow:0px 1px 0px #2f6627;  }
+.info:hover {
+background-image: url(../figures_/info_hover.jpeg);
+background-color:#C29D1F;
+color:white;  }
+.info:active {
+position:relative;
+top:1px;}
+
+
+.model_c_qual {
+background-image: url(../figures_/C_M_42.jpg);
+background-color: #5bd642;
+-moz-border-radius:29px;
+-webkit-border-radius:27px;
+border-radius:29px;
+border:1px solid #2E9AFE;
+display:inline-block;
+/*  width:24px;
+height:20px;  */
+cursor:crosshair;
+color:black;
+font-family:"Times New Roman";
+font-size:20px;
+white-space: normal;
+padding:3px;
+text-decoration:none;
+text-shadow:0px 1px 0px #2f6627;  }
+.model_c_qual:hover {
+background-image: url(../figures_/info_hover.jpeg);
+background-color:#C29D1F;
+color:green;  }
+.model_c_qual:active {
+position:relative;
+top:1px;}

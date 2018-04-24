@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+  <!--    <link rel="import" href="start_1.html">
+      <link rel="import" href="start_1.html">
+    <link rel="import" href="start_2.html">
+    <link rel="import" href="start_3.html">-->
+      <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <title>test RDF website  pages,</title>
+  </head><body>
+  <main id="main_c">       <div align=center>
+          <p   style="width:427px;background-color:  yellow">The RDF website pages,</p>
+        <input type="button" value="start #1" onclick="move_webview(1)"/>
+        <input type="button" value="start #2" onclick="move_webview(2)"/>
+        <input type="button" value="start #3" onclick="move_webview(3)"/>
+      </div>
+</main>
+
+<!--<iframe width="560" height="315"
+src="https://www.youtube.com/embed/owsfdh4gxyc" frameborder="0" allowfullscreen></iframe>-->
+<div align=center><!--  -->
+<iframe id="main_c_2" src="list_to_do.html"
+  style="position:relative;width:724px;height:1024px;  border-style:  solid;"
+   nodeintegration>  test </iframe></div>
+<script>//  position:relative;width:100%;height:427px;
+//    WebView=document.querySelector('webview')
+  //  WebView.style.visibility  = "visible"  ;
+    // WebView.style.height="3524px"  ;
+//
+function move_webview(index){//           WebView=document.querySelector('webview')
+if(index==1){where='start_1.html'}
+if(index==2){where='start_2.html'}
+if(index==3){where='start_3.html'}
+
+//WebView=document.querySelector('webview')
+      WebView=document.getElementById("main_c_2")
+//   WebView.innerHTML=''
+   WebView.src=where        ;}
+
+
+
+
+function move_import(index){
+        index_99=34
+          temp_text='temp'
+        var link = document.querySelectorAll('link[rel="import"]');
+    //        page the      < temp> in the import.
+        var temp =   link[index].import.querySelector(temp_text);
+      document.getElementById("main_c").innerHTML=''
+      //var  page = document.Import(temp.content, true);
+      if(index_99<=43){
+      document.querySelector('#main_c').appendChild(temp.cloneNode(true));}
+      else{ var    page = document.importNode(temp.content, true);
+          document.querySelector('#main_c').appendChild(page);   }  }
+</script>
+  </body>
+</html>

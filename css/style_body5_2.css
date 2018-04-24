@@ -1,0 +1,471 @@
+p {  /*background-color: #F4FA58;*/  }
+ /* html { min-height: 100%;  }*/
+     body {
+    background: -webkit-linear-gradient(left, #ADD2F6, #B9D7F5); /* from left to right */
+    background: -o-linear-gradient(right, #93B874, #C9DCB9); /* ending on the right */
+    background: -moz-linear-gradient(right, #93B874, #C9DCB9); /* ending on the right */
+    /*background: linear-gradient(to right, #93B874, #C9DCB9); /* moving to the right */
+    background-color: #7DC4F1;/* #93B874;
+    /* It's a good idea to set a background color in case the gradient doesn't load */
+  }
+
+/*::placeholder{color:black;}  */
+
+input[type="text"].placeholder_class::-webkit-input-placeholder {
+  color: #f1f1f1;
+}
+
+input[type="text"].orange_placeholder::-webkit-input-placeholder {
+  color: orange;
+}
+
+::placeholder{
+     color:black;
+   }
+
+.myButton_33{
+  background-color:white;
+     background-size: 99px 42px;
+ padding-top: 11px;
+ padding-bottom:   11px;
+ width: 99px;
+  color:black;
+font-size:20px;
+outline:none;
+    text-decoration:none;
+font-family:Arial;
+}
+.myButton_33:hover {
+   background-color:   #DAF7A6; /*#C2BAA2;*/
+ background-size: 99px 42px;
+ outline:none;}
+
+.myButton_33:focus {
+   background-color:#ADD2F6;
+ background-size: 99px 42px;
+color:white;
+position:relative;
+outline:none;
+top:1px;}
+
+.myButton_33:active {
+      background-color:#1F189D;
+   background-size: 99px 42px;
+color:white;
+  position:relative;
+  outline:none;
+  top:1px;}
+
+
+.functions_11{
+  background-color:white;
+     background-size: 99px 42px;
+ padding-top: 11px;
+ padding-bottom:   11px;
+ width: 99px;
+  color:black;
+font-size:20px;
+outline:none;
+    text-decoration:none;
+font-family:Arial;
+}
+.functions_11:hover {
+   background-color:   #DAF7A6; /*#C2BAA2;*/
+ background-size: 99px 42px;
+ outline:none;}
+
+.functions_11:focus {
+   background-color:#ADD2F6;
+ background-size: 99px 42px;
+color:white;
+position:relative;
+outline:none;
+top:1px;}
+
+.functions_11:active {
+      background-color:#1F189D;
+   background-size: 99px 42px;
+color:white;
+  position:relative;
+  outline:none;
+  top:1px;}
+
+
+	.functions_1{
+	 background-image: url(../figures_/functions_1.png);
+	 background-size: 99px 42px;
+   padding-top: 33px;
+  	 width: 99px;
+	 background-color:#ACA8F5;
+	color:white;
+	font-size:11px;
+	outline:none;
+	border: solid;
+	border-color: black;
+	text-decoration:none;
+	font-family:Arial;
+	}
+	.functions_1:hover {
+	 background-image: url(../figures_/functions_1_name.png);
+	 background-color:#CFCDF1;
+	 background-size: 99px 42px;
+	 outline:none;}
+
+	.functions_1:focus {
+	 background-image: url(../figures_/functions_1_name.png);
+	 background-color:#ADD2F6;
+	 background-size: 99px 42px;
+  color:white;
+	position:relative;
+	outline:none;
+	top:1px;}
+
+	.functions_1:active {
+		background-image: url(../figures_/functions_1_name.png);
+			background-color:#1F189D;
+		 background-size: 99px 42px;
+	color:white;
+		position:relative;
+		outline:none;
+		top:1px;}
+
+
+
+	.functions_2{
+	 background-image: url(../figures_/functions_2.png);
+	 background-size: 99px 42px;
+	 padding-top: 33px;
+	 width: 99px;
+	 background-color:#ACA8F5;
+	color:white;
+	font-size:11px;
+	outline:none;
+	border: solid;
+	border-color: black;
+	text-decoration:none;
+	font-family:Arial;
+	}
+	.functions_2:hover {
+	 background-image: url(../figures_/functions_2_name.png);
+	 background-color:#CFCDF1;
+	 background-size: 99px 42px;
+	 outline:none;}
+
+	.functions_2:focus {
+	 background-image: url(../figures_/functions_2_name.png);
+	 background-color:#ADD2F6;
+	 background-size: 99px 42px;
+	position:relative;
+	outline:none;
+	top:1px;}
+
+	.functions_2:active {
+		background-image: url(../figures_/functions_2_name.png);
+			background-color:#1F189D;
+		 background-size: 99px 42px;
+color:black;
+		position:relative;
+		outline:none;
+		top:1px;}
+
+
+
+
+				.functions_3{
+				 background-image: url(../figures_/functions_3.png);
+				 background-size: 99px 42px;
+				 padding-top: 33px;
+				 width: 99px;
+				 background-color:#ACA8F5;
+				color:white;
+				font-size:11px;
+				outline:none;
+				border: solid;
+				border-color: black;
+				text-decoration:none;
+				font-family:Arial;
+				}
+				.functions_3:hover {
+				 background-image: url(../figures_/functions_3_name.png);
+				 background-color:#CFCDF1;
+				 background-size: 99px 42px;
+				 outline:none;}
+
+				.functions_3:focus {
+				 background-image: url(../figures_/functions_3_name.png);
+				 background-color:#ADD2F6;
+				 background-size: 99px 42px;
+				position:relative;
+				outline:none;
+				top:1px;}
+
+				.functions_3:active {
+					background-image: url(../figures_/functions_3_name.png);
+						background-color:#1F189D;
+					 background-size: 99px 42px;
+color:black;
+					position:relative;
+					outline:none;
+					top:1px;}
+
+
+		.functions_4{
+		 background-image: url(../figures_/functions_4.png);
+		 background-size: 99px 42px;
+		 padding-top: 34px;
+		 width: 99px;
+		 background-color:#ACA8F5;
+		color:white;
+		font-size:11px;
+		outline:none;
+		border: solid;
+		border-color: black;
+		text-decoration:none;
+		font-family:Arial;
+		}
+		.functions_4:hover {
+		 background-image: url(../figures_/functions_4_name.png);
+		 background-color:#CFCDF1;
+		 background-size: 99px 42px;
+		 outline:none;}
+
+		.functions_4:focus {
+		 background-image: url(../figures_/functions_4_name.png);
+		 background-color:#ADD2F6;
+		 background-size: 99px 42px;
+		position:relative;
+		outline:none;
+		top:1px;}
+
+		.functions_4:active {
+			background-image: url(../figures_/functions_4_name.png);
+				background-color:#1F189D;
+			 background-size: 99px 42px;
+color:black;
+			position:relative;
+			outline:none;
+			top:1px;}
+
+
+
+
+
+							.functions_5{
+							 background-image: url(../figures_/functions_5.png);
+							 background-size: 99px 42px;
+							 padding-top: 34px;
+							 width: 99px;
+							 background-color:#ACA8F5;
+							color:white;
+							font-size:11px;
+							outline:none;
+							border: solid;
+							border-color: black;
+							text-decoration:none;
+							font-family:Arial;
+							}
+							.functions_5:hover {
+							 background-image: url(../figures_/functions_5_name.png);
+							 background-color:#CFCDF1;
+							 background-size: 99px 42px;
+							 outline:none;}
+
+							.functions_5:focus {
+							 background-image: url(../figures_/functions_5_name.png);
+							 background-color:#ADD2F6;
+							 background-size: 99px 42px;
+							position:relative;
+							outline:none;
+							top:1px;}
+
+							.functions_5:active {
+								background-image: url(../figures_/functions_5_name.png);
+									background-color:#1F189D;
+								 background-size: 99px 42px;
+color:black;
+								position:relative;
+								outline:none;
+								top:1px;}
+
+
+								.functions_6{
+								 background-image: url(../figures_/functions_6.png);
+								 background-size: 99px 42px;
+								 padding-top: 34px;
+								 width: 99px;
+								 background-color:#ACA8F5;
+								color:white;
+								font-size:11px;
+								outline:none;
+								border: solid;
+								border-color: black;
+								text-decoration:none;
+								font-family:Arial;
+								}
+								.functions_6:hover {
+								 background-image: url(../figures_/functions_6_name.png);
+								 background-color:#CFCDF1;
+								 background-size: 99px 42px;
+								 outline:none;}
+
+								.functions_6:focus {
+								 background-image: url(../figures_/functions_6_name.png);
+								 background-color:#ADD2F6;
+								 background-size: 99px 42px;
+								position:relative;
+								outline:none;
+								top:1px;}
+
+								.functions_6:active {
+									background-image: url(../figures_/functions_6_name.png);
+										background-color:#1F189D;
+									 background-size: 99px 42px;
+					color:black;
+									position:relative;
+									outline:none;
+									top:1px;}
+
+
+									.functions_7{
+									 background-image: url(../figures_/functions_7.png);
+									 background-size: 99px 42px;
+									 padding-top: 34px;
+									 width: 99px;
+									 background-color:#ACA8F5;
+									color:white;
+									font-size:11px;
+									outline:none;
+									border: none;
+									text-decoration:none;
+									font-family:Arial;
+									}
+									.functions_7:hover {
+									 background-image: url(../figures_/functions_7_name.png);
+									 background-color:#CFCDF1;
+									 background-size: 99px 42px;
+									 outline:none;}
+
+									.functions_7:focus {
+									 background-image: url(../figures_/functions_7_name.png);
+									 background-color:#ADD2F6;
+									 background-size: 99px 42px;
+									position:relative;
+									outline:none;
+									top:1px;}
+
+									.functions_7:active {
+										background-image: url(../figures_/functions_7_name.png);
+											background-color:#1F189D;
+										 background-size: 99px 42px;
+						color:black;
+										position:relative;
+										outline:none;
+										top:1px;}
+
+										.functions_8{
+										 background-image: url(../figures_/functions_8.png);
+										 background-size: 99px 42px;
+										 padding-top: 34px;
+										 width: 99px;
+										 background-color:#ACA8F5;
+										color:white;
+										font-size:11px;
+										outline:none;
+										border: none;
+										text-decoration:none;
+										font-family:Arial;
+										}
+										.functions_8:hover {
+										 background-image: url(../figures_/functions_8_name.png);
+										 background-color:#CFCDF1;
+										 background-size: 99px 42px;
+										 outline:none;}
+
+										.functions_8:focus {
+										 background-image: url(../figures_/functions_8_name.png);
+										 background-color:#ADD2F6;
+										 background-size: 99px 42px;
+										position:relative;
+										outline:none;
+										top:1px;}
+
+										.functions_8:active {
+											background-image: url(../figures_/functions_8_name.png);
+												background-color:#1F189D;
+											 background-size: 99px 42px;
+							color:black;
+											position:relative;
+											outline:none;
+											top:1px;}
+
+											.functions_9{
+											 background-image: url(../figures_/functions_9.png);
+											 background-size: 99px 42px;
+											 padding-top: 33px;
+											 width: 99px;
+											 background-color:#ACA8F5;
+											color:white;
+											font-size:11px;
+											outline:none;
+											border: none;
+											text-decoration:none;
+											font-family:Arial;
+											}
+											.functions_9:hover {
+											 background-image: url(../figures_/functions_9_name.png);
+											 background-color:#CFCDF1;
+											 background-size: 99px 42px;
+											 outline:none;}
+
+											.functions_9:focus {
+											 background-image: url(../figures_/functions_9_name.png);
+											 background-color:#ADD2F6;
+											 background-size: 99px 42px;
+											position:relative;
+											outline:none;
+											top:1px;}
+
+											.functions_9:active {
+												background-image: url(../figures_/functions_9_name.png);
+													background-color:#1F189D;
+												 background-size: 99px 42px;
+								color:black;
+												position:relative;
+												outline:none;
+												top:1px;}
+
+												.functions_10{
+												 background-image: url(../figures_/functions_10.png);
+												 background-size: 99px 42px;
+												 padding-top: 34px;
+												 width: 99px;
+												 background-color:#ACA8F5;
+												color:white;
+												font-size:11px;
+												outline:none;
+												border: none;
+												text-decoration:none;
+												font-family:Arial;
+												}
+												.functions_10:hover {
+												 background-image: url(../figures_/functions_10_name.png);
+												 background-color:#CFCDF1;
+												 background-size: 99px 42px;
+												 outline:none;}
+
+												.functions_10:focus {
+												 background-image: url(../figures_/functions_10_name.png);
+												 background-color:#ADD2F6;
+												 background-size: 99px 42px;
+												position:relative;
+												outline:none;
+												top:1px;}
+
+												.functions_10:active {
+													background-image: url(../figures_/functions_10_name.png);
+														background-color:#1F189D;
+													 background-size: 99px 42px;
+									color:black;
+													position:relative;
+													outline:none;
+													top:1px;}

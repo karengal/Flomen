@@ -1,0 +1,321 @@
+.myButton2040_99{transform: rotate(50deg);        float: right;  transform-origin: left top 0;
+	transform-style: preserve-3d;
+/*         transform-style: preserve-3d;
+  	  	-webkit-transform: rotate(-90deg);
+	      -moz-transform: rotate(-90deg);
+    	           */
+color: white    }
+
+
+
+  .info {
+background-image: url(../figures_/info_on.jpeg);
+background-color: #5bd642;
+-moz-border-radius:29px;
+-webkit-border-radius:27px;
+border-radius:29px;
+border:1px solid #2E9AFE;
+display:inline-block;
+width:24px;
+height:20px;
+cursor:crosshair;
+color:black;
+font-family:"Times New Roman";
+font-size:11px;
+white-space: normal;
+padding:3px;
+text-decoration:none;
+text-shadow:0px 1px 0px #2f6627;  }
+.info:hover {
+background-image: url(../figures_/info_hover.jpeg);
+background-color:#C29D1F;
+color:white;  }
+.info:active {
+position:relative;
+top:1px;}
+
+
+.up{  padding-top:3px;
+/*	padding-bottom:   2px;   */
+	 background-color:#2142CD;  }
+
+  .sapirClass{  background-color: #7CB7F3;  }
+
+.sapirClass2{							 background-image: url(../figures_/insert24.png);
+							 background-size: 138px 80px;
+							 padding-top: 62px;
+							 width: 138px;
+							 background-color:#ACA8F5;
+							color:white;
+							font-size:15px;
+							outline:solid;
+							border: solid;    }
+    .sapirClass2:hover { background-image: url(../figures_/data2.png);
+      						background-color:#CFCDF1;
+    						background-size: 138px 80px;
+      					}
+                /*background-image: url(../figures_/insert2.png);  outline:none;  */
+
+
+
+
+
+               .myButton {
+							 background-image: url(../figures_/insert2.png);
+							 background-size: 138px 80px;
+							 padding-top: 62px;
+							 width: 138px;
+							 background-color:#ACA8F5;
+							color:white;
+							font-size:15px;
+							outline:none;
+							border: none;
+						text-decoration:none;
+							font-family:Arial;
+					}
+					.myButton:hover {
+						background-image: url(../figures_/insert2.png);
+						background-color:#CFCDF1;
+						background-size: 138px 80px;
+						outline:none;
+					}
+
+					.myButton:focus {
+						background-image: url(../figures_/insert2.png);
+						background-color:#ADD2F6;
+						background-size: 138px 80px;
+					 position:relative;
+					 outline:none;
+					 top:1px;}
+
+					 .myButton:active {
+ 						background-image: url(../figures_/insert2.png);
+						 background-color:#1F189D;
+						background-size: 138px 80px;
+ 					 position:relative;
+					 outline:none;
+ 					 top:1px;}
+
+          /* 	background-color:#0698F3;/*#3284D6;/*#41ABEE;*/
+           /*	-moz-border-radius:28px;
+           	-webkit-border-radius:28px;
+           	border-radius:29px;
+           	border:1px solid white;
+           	display:inline-block;
+           	cursor:pointer;
+           	color:white;
+           	font-family:Arial;
+           	font-size:17px;
+           	padding:5px 20px;
+           	text-decoration:none;
+           	text-shadow:0px 1px 0px #2f6627;  }
+           .myButton:hover {
+           	background-color:#91CBF1;  }
+           .myButton:active {
+           	position:relative;
+           	top:1px;
+					*/
+
+					.myButtonFunctions{
+						background-image: url(../figures_/function3_2.png);
+						background-size: 138px 80px;
+						padding-top: 62px;
+						width: 138px;
+						background-color:#ACA8F5;
+					 color:white;
+					 font-size:15px;
+					 outline:none;
+					 border: none;
+				 text-decoration:none;
+					 font-family:Arial;
+					}
+					.myButtonFunctions:hover {
+						background-image: url(../figures_/function3_2.png);
+						background-color:#CFCDF1;
+						background-size: 138px 80px;
+						outline:none;}
+
+					.myButtonFunctions:focus {
+						background-image: url(../figures_/function3_2.png);
+						background-color:#ADD2F6;
+						background-size: 138px 80px;
+					 position:relative;
+					 outline:none;
+					 top:1px;}
+
+					 .myButtonFunctions:active {
+						 background-image: url(../figures_/function3_2.png);
+ 						 background-color:#1F189D;
+ 						background-size: 138px 80px;
+  					 position:relative;
+ 					 outline:none;
+  					 top:1px;}
+
+
+						 .myButtonTwo{
+							background-image: url(../figures_/logo3.png);
+							background-size: 138px 80px;
+							padding-top: 62px;
+							width: 138px;
+							background-color:#ACA8F5;
+						 color:white;
+						 font-size:15px;
+						 outline:none;
+						 border: none;
+					 text-decoration:none;
+						 font-family:Arial;
+						}
+						.myButtonTwo:hover {
+							background-image: url(../figures_/logo3.png);
+							background-color:#CFCDF1;
+							background-size: 138px 80px;
+							outline:none;}
+
+						.myButtonTwo:focus {
+							background-image: url(../figures_/logo3.png);
+							background-color:#ADD2F6;
+							background-size: 138px 80px;
+						 position:relative;
+						 outline:none;
+						 top:1px;}
+
+						 .myButtonTwo:active {
+							 background-image: url(../figures_/logo3.png);
+								 background-color:#1F189D;
+								background-size: 138px 80px;
+							 position:relative;
+							 outline:none;
+							 top:1px;}
+
+
+
+						 .myButton3on{
+	 						background-image: url(../figures_/3on.png);
+	 						background-size: 138px 80px;
+	 						padding-top: 62px;
+	 						width: 138px;
+	 						background-color:#ACA8F5;
+	 					 color:white;
+	 					 font-size:15px;
+	 					 outline:none;
+	 					 border: none;
+	 				 text-decoration:none;
+	 					 font-family:Arial;
+	 					}
+	 					.myButton3on:hover {
+	 						background-image: url(../figures_/3on.png);
+	 						background-color:#CFCDF1;
+	 						background-size: 138px 80px;
+	 						outline:none;}
+
+	 					.myButton3on:focus {
+	 						background-image: url(../figures_/3on.png);
+	 						background-color:#ADD2F6;
+	 						background-size: 138px 80px;
+	 					 position:relative;
+	 					 outline:none;
+	 					 top:1px;}
+
+	 					 .myButton3on:active {
+	 						 background-image: url(../figures_/3on.png);
+	  						 background-color:#1F189D;
+	  						background-size: 138px 80px;
+	   					 position:relative;
+	  					 outline:none;
+	   					 top:1px;}
+
+
+
+	  							 .myButtondata{
+			 						background-image: url(../figures_/data2.png);
+			 						background-size: 138px 80px;
+			 						padding-top: 62px;
+			 						width: 138px;
+			 						background-color:#ACA8F5;
+			 					 color:white;
+			 					 font-size:15px;
+			 					 outline:none;
+			 					 border: none;
+			 				 text-decoration:none;
+			 					 font-family:Arial;
+			 					}
+			 					.myButtondata:hover {
+			 						background-image: url(../figures_/data2.png);
+			 						background-color:#CFCDF1;
+			 						background-size: 138px 80px;
+			 						outline:none;}
+
+			 					.myButtondata:focus {
+			 						background-image: url(../figures_/data2.png);
+			 						background-color:#ADD2F6;
+			 						background-size: 138px 80px;
+			 					 position:relative;
+			 					 outline:none;
+			 					 top:1px;}
+
+			 					 .myButtondata:active {
+			 						 background-image: url(../figures_/data2.png);
+			  						 background-color:#1F189D;
+			  						background-size: 138px 80px;
+			   					 position:relative;
+			  					 outline:none;
+			   					 top:1px;}
+
+
+
+                   .myButton_33 {
+                  background-color:#2E64FE;
+                  -moz-border-radius:28px;
+                  -webkit-border-radius:28px;
+                  border-radius:29px;
+       					 font-family:Arial;
+       					 border:1px solid #2E9AFE;
+                  display:inline-block;
+                  cursor:crosshair;
+                  color:#0404B4;
+                   font-size:24px;
+                  padding:11px;
+                  text-decoration:none;
+                  text-shadow:0px 1px 0px #2f6627;  }
+                 .myButton_33:hover {
+                  background-color:#F3DC3F;  }
+                 .myButton_33:active {
+                  position:relative;
+                  top:1px;}
+
+
+
+
+									.where_window_main{
+												background-image: url(../figures_/test_.png);
+  			  							background-size: 138px 80px;
+										padding-top: 62px;
+										width: 138px;
+										background-color:#ACA8F5;
+									 color:black;
+									 font-size:15px;
+									 outline:none;
+									 border: none;
+								 text-decoration:none;
+									 font-family:Arial;
+									}
+									.where_window_main:hover {background-image: url(../figures_/waves_2.jpg  );
+										color:white;
+			 						  background-color:#CFCDF1;
+										background-size: 138px 80px;
+										outline:none;}
+
+									.where_window_main:focus {
+										background-image: url(../figures_/test_.png);
+  	  									background-color:#ADD2F6;
+										background-size: 138px 80px;
+									 position:relative;
+									 outline:none;
+									 top:1px;}
+
+									 .where_window_main:active {
+  				 						 background-color:#1F189D;
+				 						background-size: 138px 80px;
+				  					 position:relative;
+				 					 outline:none;
+				  					 top:1px;}
