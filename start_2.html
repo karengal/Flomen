@@ -2,18 +2,32 @@
 <html>
   <head>
     <meta charset="UTF-8">
-  <!--    <link rel="import" href="start_1.html">
-      <link rel="import" href="start_1.html">
-    <link rel="import" href="start_2.html">
-    <link rel="import" href="start_3.html">-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+      integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"> 
       <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-    <title>test save file 1</title>
-  </head><body>
-   <div align=center>
-<temp>  <div align=center>
-    <p>ask questions, FAQ  ,  </p>
-    to create   the page and css files
-    forum ,load information     from table
-</temp></div>
-</body>
+      <title>Contact us</title>
+  </head>
+  <body style="background-color: rgb(230, 230, 185)">
+      <form>
+        <div class="form-group row" align="center">
+          <input type=text class="form-control" id="inputName" placeholder="Name" style="width: 500px">
+        </div>
+
+        <div class="form-group row" align="center">
+           <input type=text class="form-control" id="inputCompany" placeholder="Company/University" style="width: 500px">
+        </div>
+
+        <div class="form-group row" align="center">              
+            <input type="email" class="form-control" id="inputEmail1" aria-describedby="emailHelp" 
+            placeholder="Enter email" emptyerrormessage="Name cannot be empty" style="width: 500px">             
+        </div>
+        
+        <div class="form-group row" align="center">              
+            <textarea class="text-input" placeholder="Your Question here..." id="exampleFormControlTextarea1" rows="8" cols="67"></textarea>
+        </div>
+        <div class="form-group row" align="center"> 
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </div>
+      </form>
+  </body>
 </html>

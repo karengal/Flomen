@@ -3,14 +3,14 @@
 <title>Purchase RDF</title>
 </head>
 
-<BODY aLink=green background= "1.jpg" vLink=blue>
+<BODY style="background-color: rgb(230, 230, 185)" aLink=green background= "1.jpg" vLink=blue>
 <hr>
 <font size="5"> <div align="center">
 Downloading RDF the free eddition, first version:
 </div></font>
 <hr>
 
-<form action="having_RDF7.php" method="post" enctype="multipart/form-data" target="_parent"> 
+<form align="center" action="having_RDF7.php" method="post" enctype="multipart/form-data" target="_parent"> 
 
 User name: 
 <input type="text" name="UserName" align="center"/> <br />
