@@ -1,0 +1,35 @@
+
+
+<html>
+    <head>
+        <meta charset="UTF-8">        
+        <!--<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>-->        
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+            integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">      
+        <title>Contact us</title>
+    </head>  
+
+<body style="background-color: rgb(230, 230, 185)">
+<form>
+    <div class="form-group">
+       <input type=text class="form-control" id="inputName" placeholder="Name" style="width: 500px">
+    </div>
+    <div class="form-group">
+            <input type=text class="form-control" id="inputCompany" placeholder="Company/University" style="width: 500px">
+         </div>
+    <div class="form-group">
+        <!--<label for="exampleInputEmail1">Email address</label>-->
+        <input type="email" class="form-control" id="inputEmail1" aria-describedby="emailHelp" 
+        placeholder="Enter email" emptyerrormessage="Name cannot be empty" style="width: 500px">
+        <!--<small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>-->
+    </div>
+    
+    <div class="form-group">
+        <!--class="text-input" to shorten the width"-->
+        <!--<div><label for="exampleFormControlTextarea1">Your Question here...</label></div>-->
+        <textarea class="text-input" placeholder="Your Question here..." id="exampleFormControlTextarea1" rows="8" cols="67"></textarea>
+    </div>
+    
+    <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</body>

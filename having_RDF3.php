@@ -13,10 +13,10 @@ Downloading RDF the free eddition, first version:
 <form action="having_RDF7.php" method="post" enctype="multipart/form-data" target="_parent"> 
 
 User name: 
-<input type="text" name="UserName" /> <br />
+<input type="text" name="UserName" align="center"/> <br />
 
 Password:
-<input type=PASSWORD name="Password1" /> <br />
+<input type=PASSWORD name="Password1" align="center"/> <br />
 
 
 
