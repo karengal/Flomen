@@ -1,11 +1,11 @@
 p {  /*background-color: #F4FA58;*/  }
  /* html { min-height: 100%;  }*/
      body {
-    background: -webkit-linear-gradient(left, #ADD2F6, #B9D7F5); /* from left to right */
-    background: -o-linear-gradient(right, #93B874, #C9DCB9); /* ending on the right */
-    background: -moz-linear-gradient(right, #93B874, #C9DCB9); /* ending on the right */
+    /*background: -webkit-linear-gradient(left, #ADD2F6, #B9D7F5);*/ /* from left to right */
+   /* background: -o-linear-gradient(right, #93B874, #C9DCB9); /* ending on the right */
+   /* background: -moz-linear-gradient(right, #93B874, #C9DCB9); /* ending on the right */
     /*background: linear-gradient(to right, #93B874, #C9DCB9); /* moving to the right */
-    background-color: #7DC4F1;/* #93B874;
+    /*background-color: rgb(240, 233, 197);/* #93B874;*/
     /* It's a good idea to set a background color in case the gradient doesn't load */
   }
 
